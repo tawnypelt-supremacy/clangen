@@ -68,7 +68,8 @@
         ["stones dissolving in water"]
       ],
       "forest": [
-        ["the forest folding in on itself"]
+        ["the forest folding in on itself"],
+        ["the forest cut down"]
 
       ],
       "plains": [
@@ -76,9 +77,12 @@
 
       ],
       "beach": [
+        ["waves swallowing the camp"],
+        ["the beach drying up"]
         
       ],
       "mountainous": [
+        ["a mountain falling on the camp, crushing it"]
 
       ]
     },
@@ -106,10 +110,10 @@
 
       ],
       "forest": [
-
+      ["a tree falling"]
       ],
       "plains": [
-
+      ["the whispering of tall grass"]
       ],
       "beach": [
 

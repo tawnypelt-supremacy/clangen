@@ -115,8 +115,33 @@
         "an infected wound": [
             "r_c gently asks m_c to turn over and winces when {PRONOUN/m_c/subject} {VERB/m_c/do/does}. The strain of birth isn't healing as r_c had hoped it might: instead, the area looks swollen and painful.",
             "m_c tries not to hiss as {PRONOUN/m_c/poss} litter suckles. {PRONOUN/m_c/subject/CAP} {VERB/m_c/love/loves} them, {PRONOUN/m_c/subject} {VERB/m_c/do/does}, but giving birth was so painful and the area feels swollen and infected now."
+        ],
+        "turmoiled litter": [
+			"m_c tiredly asks r_c if there is something wrong with {PRONOUN/m_c/object}, {PRONOUN/m_c/subject} just can't seem to bond with {PRONOUN/m_c/poss} litter at all.",
+			"Staring at {PRONOUN/m_c/poss} litter m_c wonders what is wrong with {PRONOUN/m_c/object}. {PRONOUN/m_c/subject/CAP} should be happy, overjoyed at this but instead all {PRONOUN/m_c/subject} {VERB/m_c/feel/feels} is hollow and tired.",
+			"While {PRONOUN/m_c/poss} litter plays around the nursery m_c can only curl in the nest and feel the weight of the world pressing down on {PRONOUN/m_c/object}, how could {PRONOUN/m_c/subject} possibly manage to do this?"
+		]
+    },
+     "fainting": {
+        "head damage": [
+            "r_c realizes that m_c hit {PRONOUN/m_c/poss} head rather hard when {PRONOUN/m_c/subject} fainted.",
+            "m_c got badly hurt when {PRONOUN/m_c/subject} fainted.",
+            "m_c got head damaged after {PRONOUN/m_c/subject} fainted."
         ]
     },
+	"ashcough": {
+		"redcough": [
+			"As the black ash and smoke fills m_c's lungs, {PRONOUN/m_c/poss} coughs turn red. r_c knows that death is likely days away now.",
+			"As m_c weakly coughs, rasping on every breath, the red mixing with dark ash tells all."
+		]
+	},
+    "wrenched claws": {
+		"an infected wound": [
+			"Much to m_c's distress {PRONOUN/m_c/poss} paw has started to get more and more sore. When {PRONOUN/m_c/subject} {VERB/m_c/go/goes} to complain to r_c about it, {PRONOUN/r_c/subject} {VERB/r_c/look/looks} quite worried and explains it might be infected.",
+			"m_c's paws look all swollen and have begun to smell a bit around where {PRONOUN/m_c/poss} claws have been pulled.",
+			"Hissing m_c awkwardly pads {PRONOUN/m_c/poss} way over to the medicine den. {PRONOUN/m_c/poss} poor paws feeling set aflame."
+		]
+	},
     "water in their lungs": {
         "running nose": [
             "Some of the water m_c inhaled appears to be draining from {PRONOUN/m_c/poss} nose as well as coming up in those hacking coughs. r_c puts {PRONOUN/m_c/object} on nest rest to help {PRONOUN/m_c/object} recover.",

@@ -2,6 +2,9 @@
     "claw-wound": [
         "m_c died from a claw-wound."
     ],
+    "shivering": [
+        "m_c got too cold and died."
+    ],
     "bite-wound": [
         "m_c died from a bite-wound."
     ],

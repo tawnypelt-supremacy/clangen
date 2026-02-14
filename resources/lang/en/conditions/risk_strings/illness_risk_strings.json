@@ -3,9 +3,63 @@
         "yellowcough": [
              "There has to be a solution - if r_c tries hard enough, surely {PRONOUN/r_c/subject} can still save m_c from the yellowcough {PRONOUN/m_c/poss} greencough has progressed to.",
             "m_c sits miserably in the medicine cat den, coughing so hard it feels like {PRONOUN/m_c/subject} can barely get a breath in. The outlook looks grim as {PRONOUN/m_c/poss} greencough has progressed to yellowcough."
-
-        ]
+        ],
+        "longcough": [
+			"Despite all of m_c's tiredness and fever having left {PRONOUN/m_c/object}, r_c struggles to help get rid of the last lingering cough... it seems like it might never leave.",
+			"While m_c's greencough seems to be gone, the coughing itself stubbornly lingers. {PRONOUN/m_c/subject/CAP} {VERB/m_c/don't/doesn't} know if it'll ever go away coming in bursts randomly."
+		]
+    "seizure": {
+		"bruises": [
+			"r_c gently tends to m_c once the shaking has stopped. Asking them where it hurts and fluffing up the nest to try and soothe the new bruises.",
+			"m_c pants, gingerly wincing as {PRONOUN/m_c/subject} {VERB/m_c/shift/shifts} in {PRONOUN/m_c/poss} nest.",
+			"Even with the softest nest {PRONOUN/m_c/subject} could find, m_c still finds that {PRONOUN/m_c/subject} {VERB/m_c/hurt/hurts} beneath their fur."
+		],
+		"sore": [
+			"After ensuring that m_c is alright and secure, r_c gently massages the aches out of {PRONOUN/m_c/poss} body.",
+			"m_c whines, it's not enough just that {PRONOUN/m_c/subject} {VERB/m_c/are/is} still slightly shaking from residules, now all {PRONOUN/m_c/poss} muscles ache too.",
+			"If m_c close {PRONOUN/m_c/poss} eyes the pain isn't quite so bad, just a dull throb really. But it doesn't easily let them rest after {PRONOUN/m_c/poss} seizure."
+		]
     },
+        "anxiety attack": {
+		"panic attack": [
+			"r_c carefully remains outside of m_c's personal space and attempts to count with {PRONOUN/m_c/object}, desperately hoping the distraction will prevent {PRONOUN/m_c/poss} anxiety from further progressing to full panic.",
+			"m_c's tail lashes, eyes darting around camp. {PRONOUN/m_c/poss/CAP} paws dig into the dirt of the den floor and {PRONOUN/m_c/subject} {VERB/m_c/look/looks} moments away from bolting at the slightest movement.",
+			"Instead of fading the anxiety only seems to build and build until m_c feels like {PRONOUN/m_c/subject} can't breathe, everything is dangerous and wrong and {PRONOUN/m_c/subject} {VERB/m_c/need/needs} out, out.",
+			"It's irrational, there's nothing there, {PRONOUN/m_c/subject} {VERB/m_c/are/is} not in any danger here. m_c keeps reminding {PRONOUN/m_c/self} over and over as {PRONOUN/m_c/poss} chest grows tighter and tighter.",
+			"{PRONOUN/m_c/subject} can't breathe, m_c can't breathe drowning on land, drowning in the panic that floods {PRONOUN/m_c/poss} body putting all {PRONOUN/m_c/poss} fur on end."
+			],
+		"paranoia": [
+			"m_c watches r_c with wary eyes, tail twitching and ears pressed low. r_c carefully broadcasts and exaggerates {PRONOUN/r_c/poss} every movement to try and make {PRONOUN/m_c/object} feel a bit more secure.",
+			"After working {PRONOUN/m_c/self} into such anxiety m_c finds {PRONOUN/m_c/self} struggling to get back out of it and on edge for the rest of the day.",
+			"m_c refuses to let {PRONOUN/m_c/self} calm down, sure that there is something wrong and dangerous out there.",
+			"While there is no reason to worry m_c refuses to see it that way and stands stiffly at the camp entry fur all on end and ears raised to hear absolutely everything."
+		]
+        },
+        "panic attack": {
+		"shock": [
+			"While the panic has faded away now m_c stares almost blankly, eyes darting making r_c worried that {PRONOUN/m_c/subject} {VERB/m_c/have/has} gone into a state of shock.",
+			"m_c's heart still races, pounding and echoing in {PRONOUN/m_c/poss} ears, they should be calm but {PRONOUN/m_c/subject} can't calm down. Panic continues to vividly repeat in {PRONOUN/m_c/poss} mind.",
+			"Around and around in circles the fear echoes, feeling more and more like a loop that's trapping m_c into a state of shock."
+		],
+		"anxiety": [
+			"After the panic has faded away, m_c still seems to be on edge. r_c sits and talks with {PRONOUN/m_c/object} about how {PRONOUN/m_c/subject} might have anxiety that wasn't discovered until now.",
+			"m_c still feels like {PRONOUN/m_c/subject} {VERB/m_c/are/is} on the verge of panic. Thoughts going around and around frantically chasing each other like a dog after it's own tail."
+		],
+		"paranoia": [
+			"m_c refuses to take the herbs that r_c is offering {PRONOUN/m_c/object}, convinced that they might be dangerous and not actually helpful.",
+			"After all the panic and anxiety, m_c has been twitching, muttering things that sound more and more paranoid.",
+			"{PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} just double checking things, just making sure that camp is secure m_c tells {PRONOUN/m_c/self}.",
+			"m_c noses at {PRONOUN/m_c/poss} food and bedding for the third time today convinced that there's something in it that will harm {PRONOUN/m_c/object}."
+		]
+    },
+        "verbal shutdown": {
+		"mute": [
+			"After all this time some of the Clan thinks that m_c should have started speaking again. r_c simply shakes their head, it's not up to those cats to demand that.",
+			"m_c simply shakes {PRONOUN/m_c/poss} head when a Clanmate asks if {PRONOUN/m_c/subject} {VERB/m_c/are/is} going to start speaking again soon.",
+			"The Clan doesn't think twice about m_c's silence, that's just how {PRONOUN/m_c/subject} {VERB/m_c/are/is}.",
+			"m_c softly pads out into the clearing, {PRONOUN/m_c/subject} {VERB/m_c/don't/doesn't} need to use words to talk. {PRONOUN/m_c/poss} cat-sign is loud enough."
+		]
+	},
     "kittencough": {
         "whitecough": [
             "r_c quietly tells m_c's parent that {PRONOUN/r_c/subject} {VERB/r_c/need/needs} to move m_c to the medicine cat den. m_c's kittencough has progressed to whitecough.",
@@ -34,6 +88,18 @@
 
         ]
     },
+        "sleeplessness": {
+		"ongoing sleeplessness": [
+			"r_c sits with m_c long into the night, just letting {PRONOUN/m_c/object} lean against {PRONOUN/r_c/object} tired and exhausted. m_c just wonders when, if ever sleep will come again.",
+			"Longer and longer time seems to stretch with m_c been unable to get any sleep.",
+			"m_c's sleeplessness doesn't seem to be leaving {PRONOUN/m_c/object} alone as {PRONOUN/r_c/subject} {VERB/m_c/take/takes} more and more night time patrols just to keep busy."
+		],
+            "fainting": [
+			"Poor m_c came to r_c feeling rather faint due to {PRONOUN/m_c/poss} lack of sleep.",
+			"It would seem that m_c's body is at it's absolute limit making {PRONOUN/m_c/object} faint now.",
+			"m_c has had a case of fainting, most likely due to {PRONOUN/m_c/poss} lack of sleep."
+		]
+	},
     "yellowcough": {
         "redcough": [
             "r_c spots the specks of blood in the bedding where m_c has been coughing and swallows a wail of despair. If {PRONOUN/m_c/poss} yellowcough has progressed to redcough, it's practically a death sentence.",
@@ -84,5 +150,10 @@
             "m_c wakes and wails, {PRONOUN/m_c/poss} dreams haunted by visions of {PRONOUN/m_c/poss} dead loved one.",
             "m_c jolts awake and immediately leaves the den to clear {PRONOUN/m_c/poss} head, hoping some fresh night air will help {PRONOUN/m_c/object} cope with the sadness and memories."
         ]
-    }
-}
+},
+        "heat stroke": {
+		"fainting": [
+			"As if m_c's heat stroke isn't already terrifying, r_c now has to monitor {PRONOUN/m_c/object} through a fainting spell.",
+			"m_c has fainted from the effects of {PRONOUN/m_c/poss} heat stroke."
+		]
+	}

@@ -4,16 +4,31 @@
         "m_c's claw-wound has healed.",
         "m_c's wound has healed well."
     ],
+     "lingering shock": [
+        "It took a little while, but m_c finally feels normal again.",
+        "m_c has finally processed the shock of {PRONOUN/m_c/poss} ordeal.",
+        "m_c feels much better this moon, the old memories of {PRONOUN/m_c/poss} pain fading."
+    ],
     "bite-wound": [
         "m_c has healed from {PRONOUN/m_c/poss} bite-wound.",
         "m_c's bite-wound has healed.",
         "m_c has healed well from {PRONOUN/m_c/poss} bite-wound."
+    ],
+    "fainting": [
+        "m_c has woken up with {PRONOUN/m_c/poss} friend beside {PRONOUN/m_c/object}.",
+        "m_c woke up after fainting.",
+        "m_c blinks awake on the ground.",
+        "m_c blinks awake where {PRONOUN/m_c/subject} {VERB/m_c/were/was}."
     ],
     "cat bite": [
         "m_c has healed from {PRONOUN/m_c/poss} cat bite.",
         "m_c's cat bite has healed.",
         "m_c has healed well from {PRONOUN/m_c/poss} cat bite."
     ],
+    "wrenched claws": [
+		"m_c is so relieved when the ache in {PRONOUN/m_c/poss} paws finally goes away.",
+		"m_c flexes {PRONOUN/m_c/poss} paws, checking if {PRONOUN/m_c/poss} claws are still there. That was such a scary experience."
+	],
     "beak bite": [
         "m_c has healed from {PRONOUN/m_c/poss} beak bite.",
         "m_c's beak bite has healed.",
